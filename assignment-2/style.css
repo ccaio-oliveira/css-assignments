@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: #B45F04;
+}
+
+h3 {
+    color: rgb(0, 191, 255);
+}
+
+h4 {
+    color: hsl(345, 96%, 36%);
+}
+
+div {
+    background: #ccc;
+    width: 300px;
+    padding: 20px;
+}
