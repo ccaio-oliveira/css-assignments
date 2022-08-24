@@ -49,6 +49,10 @@ ul a {
     opacity: 0.5;
 }
 
+ul a:hover {
+    color: #fff;
+}
+
 #title-img {
     margin-top: 90px;
     display: flex;
